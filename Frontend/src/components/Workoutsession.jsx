@@ -10,6 +10,17 @@ const Workoutsession = () => {
           body weight exercises,improving overall muscle mass and bone destiny.
         </p>
         <img src ="/img5.webp" alt ="workout"/>
+        <div className="wrapper">
+          <h1>FEATURED BOOTCAMP</h1>
+          <p>A high-intensity, dynamic workout that
+            combines strength training,cardio,and agility exercises
+            in a fast-paced environment.Bootcamp workouts often
+            include a mix of bodyweight exercises,resistance training,
+            and functional movements, designed to push participants
+            to their limits and improve overall fitness.
+          </p>
+
+        </div>
 
       </div>
     </section>
