@@ -19,6 +19,27 @@ const Workoutsession = () => {
             and functional movements, designed to push participants
             to their limits and improve overall fitness.
           </p>
+          <div className="bootcamp">
+            <div>
+              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
+              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+            </div>
+
+            <div>
+              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
+              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+            </div>
+
+            <div>
+              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
+              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+            </div>
+
+            <div>
+              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
+              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+            </div>
+          </div>
 
         </div>
 
