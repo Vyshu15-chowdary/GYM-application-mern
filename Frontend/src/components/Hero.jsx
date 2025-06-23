@@ -13,6 +13,11 @@ const Hero = () => {
           <p>Your Journey to fitness Starts Here</p>
           <p>Pain is temporary,but quitting lasts forever.Keep Pushing!</p>
         </div>
+        <div className='buttons'>
+          <button>Start Your Journey</button>
+          <button>Discover Your Plan</button>
+
+        </div>
       </div>
 
     </section>
