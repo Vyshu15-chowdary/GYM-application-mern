@@ -16,6 +16,7 @@ const App = () => {
       <Contact/>
       <BMICaluculator/>
       <Footer/>
+      <ToastContainer theme = 'dark' position = 'top-center'/>
 
     </Router>
   )
