@@ -2,7 +2,20 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section className='hero'>
+      <div className='contact'>
+        <div className='title'>
+          <h1>LET'S</h1>
+          <h1>GET</h1>
+          <h1>MOVING</h1>
+        </div>
+        <div className="sub-title">
+          <p>Your Journey to fitness Starts Here</p>
+          <p>Pain is temporary,but quitting lasts forever.Keep Pushing!</p>
+        </div>
+      </div>
+
+    </section>
   )
 }
 
