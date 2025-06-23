@@ -9,6 +9,9 @@ import Hero from "./components/Hero"
 import WorkoutSessions from "./components/Workoutsession"
 import Gallery from "./components/Gallery"
 import Footer from "./components/Footer"
+import Contact from "./components/Contact"
+import Pricing from "./components/Pricing"
+import BMICaluculator from "./components/BMICalculator"
 
 const App = () => {
   return (
