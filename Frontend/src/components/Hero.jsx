@@ -21,7 +21,7 @@ const Hero = () => {
       </div>
 
     </section>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;
