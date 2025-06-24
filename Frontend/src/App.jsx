@@ -10,7 +10,7 @@ import Footer from "./components/Footer"
 import Contact from "./components/Contact"
 import Pricing from "./components/Pricing"
 import BMICaluculator from "./components/BMICalculator"
-import "./App.css";
+import './App.css';
 
 const App = () => {
   return (

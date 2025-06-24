@@ -21,6 +21,22 @@ const Gallery = () => {
         }
       </div>
 
+       <div>
+        {
+          gallery.slice(3,6).map((element,index) =>(
+            <img key={index} src={element} alt="galleryImage"/>
+          ))
+        }
+      </div>
+
+       <div>
+        {
+          gallery.slice(6,7).map((element,index) =>(
+            <img key={index} src={element} alt="galleryImage"/>
+          ))
+        }
+      </div>
+
     </div>
 
   </section>
