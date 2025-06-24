@@ -20,3 +20,11 @@ header {
   margin-top: 45px;
   margin-left: 7rem;
 }
+
+header p {
+
+  font-family: "Exo 2" ,sans-serif;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  color:whitesmoke;
+}
