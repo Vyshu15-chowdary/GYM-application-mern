@@ -37,7 +37,10 @@ const Contact = () => {
         </div>
 
         <button type="submit" disabled={loading}>
-          Send Message
+         
+          {loading && <clipLoader>
+            Send Message
+            </clipLoader>}
         </button>
       </form>
 

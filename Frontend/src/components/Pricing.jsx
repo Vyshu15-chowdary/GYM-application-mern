@@ -1,5 +1,5 @@
 import React from 'react'
-import {check} from "lucide-react"
+import {check, Link} from "lucide-react"
 
 const Pricing = () => {
   const pricing = [
@@ -62,7 +62,7 @@ const Pricing = () => {
                 <p>
                   <check/>20 Days Freezing Option
                 </p>
-                <Link to= {"/"} >Join now</Link>
+                <Link to={"/"}>Join Now</Link>
               </div>
 
               </div>
