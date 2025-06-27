@@ -21,23 +21,31 @@ const Workoutsession = () => {
           </p>
           <div className="bootcamp">
             <div>
-              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
-              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+              <h4>Upper Body Boot Camp</h4>
+              <p>Burpees: 3 sets of 10 reps</p>
+              <p>Push-ups: 3 sets of 15 reps</p>
+              <p>Dumbbell rows: 3 sets of 12 reps per arm</p>
             </div>
 
             <div>
-              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
-              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+              <h4>Lower Body Boot Camp</h4>
+              <p>Squates: 3 sets of 12 reps </p>
+              <p>Lunges: 3 sets of 10 reps</p>
+              <p>Deadlifts: 3 sets of 10 reps</p>
             </div>
 
             <div>
-              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
-              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+              <h4>Core Boot Camp</h4>
+              <p>Rusian twists: 3 sets of 12 reps</p>
+              <p>Leg raises : 3 sets of 12 reps</p>
+              <p>Bycycle crunches : 3 sets of 12 reps</p>
             </div>
 
             <div>
-              <h4>HIGH-INTENSITY INTERVAL TRAINING (HIIT)</h4>
-              <p>Shorts burts of intense Exercise fallowed by brief periods of rest.</p>
+              <h4>Full body Boot Camp</h4>
+              <p>Sprints : 3 sets of 30 seconds</p>
+              <p>Box jumps : 3 sets of 10 reps</p>
+              <p>Battling ropes : 3 sets of 30 seconds</p>
             </div>
           </div>
 
