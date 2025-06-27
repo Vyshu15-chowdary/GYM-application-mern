@@ -19,7 +19,7 @@ const Workoutsession = () => {
             and functional movements, designed to push participants
             to their limits and improve overall fitness.
           </p>
-          <div className="bootcamp">
+          <div className="bootcamps">
             <div>
               <h4>Upper Body Boot Camp</h4>
               <p>Burpees: 3 sets of 10 reps</p>
