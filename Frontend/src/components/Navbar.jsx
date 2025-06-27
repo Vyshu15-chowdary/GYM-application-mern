@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Navbar = () => {
   return (
-   <header>
-    <p>ELEVATE FITNESS GYM STUDIO</p>
-   </header>
-  )
-}
+    <header>
+      <p>ELITE EDGE FITNESS</p>
+    </header>
+  );
+};
 
-export default Navbar
+export default Navbar;
