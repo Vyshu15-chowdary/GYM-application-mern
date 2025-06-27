@@ -10,8 +10,8 @@ const Hero = () => {
           <h1>MOVING</h1>
         </div>
         <div className="sub-title">
-          <p>Your Journey to Fitness Starts Here</p>
-          <p>Unleash Your Potential</p>
+          <p>Sweat ,Smile,Repeat</p>
+          <p>Fitness for All , By All</p>
         </div>
         <div className="buttons">
           <button>Start Your Journey</button>
