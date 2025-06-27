@@ -5,19 +5,19 @@ import { Link } from "react-router-dom";
 const Pricing = () => {
   const pricing = [
     {
-      imgUrl: "/pricing.jpg",
+      imgUrl: "./pricing.webp",
       title: "QUARTERLY",
       price: 18000,
       length: 3,
     },
     {
-      imgUrl: "/pricing.jpg",
+      imgUrl: "./pricing.webp",
       title: "HEAL_YEARLY",
       price: 34000,
       length: 6,
     },
     {
-      imgUrl: "/pricing.jpg",
+      imgUrl: "./pricing.webp",
       title: "YEARLY",
       price: 67000,
       length: 12,
@@ -25,7 +25,7 @@ const Pricing = () => {
   ];
   return (
     <section className="pricing">
-      <h1>ELITE EDGE FITNESS PLANS</h1>
+      <h1>POWER HOUSE GYM PLANS</h1>
       <div className="wrapper">
         {pricing.map((element) => {
           return (

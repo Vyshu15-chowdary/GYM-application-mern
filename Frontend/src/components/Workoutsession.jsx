@@ -9,7 +9,7 @@ const Workoutsession = () => {
           strength and endurance through weights, resistance bands,or
           body weight exercises,improving overall muscle mass and bone destiny.
         </p>
-        <img src ="/img5.webp" alt ="workout"/>
+        <img src ="/imgp.webp" alt ="workout"/>
         <div className="wrapper">
           <h1>FEATURED BOOTCAMP</h1>
           <p>A high-intensity, dynamic workout that
