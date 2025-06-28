@@ -31,6 +31,7 @@ router.post("/send/mail",async(req,res,next)=>{
         message:"Please provide all details"
     }))
    }
+   
 })
 
 router.get("/",(req,res,next)=>{
