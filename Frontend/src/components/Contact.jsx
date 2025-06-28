@@ -14,7 +14,7 @@ const Contact = () => {
     setLoading(true);
     try {
       const { data } = await axios.post(
-       " https://gym-application-mern-1.onrender.com/",
+       "https://gym-application-mern-1.onrender.com",
         {
           name,
           email,
