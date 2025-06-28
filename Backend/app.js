@@ -1,7 +1,7 @@
 import express from "express";
 import { config } from "dotenv";
 import cors from "cors";
-import { sendEmail } from "./utils/sendEmail.js";
+import { sendEmail } from "./utils/SendEmail.js";
 
 const app = express();
 const router = express.Router();
