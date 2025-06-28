@@ -12,7 +12,7 @@ const Pricing = () => {
     },
     {
       imgUrl: "./pricing.webp",
-      title: "HEAL_YEARLY",
+      title: "HEALF_YEARLY",
       price: 34000,
       length: 6,
     },
