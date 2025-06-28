@@ -18,7 +18,9 @@ const mailOptions = {
     to:options.email,
     subject:options.subject,
     text:`${options.message} \n\n Email of user who sent The Message:${options.userEmail} `
-}
+};
+
+await transporter.sendMail(mailOptions);
         
    
 
