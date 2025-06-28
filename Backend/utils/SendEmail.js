@@ -12,6 +12,13 @@ export const sendEmail = async(options)=>{
     pass: process.env.SMTP_PASSWORD,
   },
 });
+
+const mailOptions = {
+    from:process.env.SMTP_MAIL,
+    to:options.email,
+    subject:options.subject,
+    text:`${options.message} \n\n Email of user who sent The Message:${options.userEmail} `
+}
         
    
 
