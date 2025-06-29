@@ -42,7 +42,7 @@ const Pricing = () => {
                   <Check /> Equipment
                 </p>
                 <p>
-                  <Check /> All Day Fre Training
+                  <Check /> All Day Free Training
                 </p>
                 <p>
                   <Check /> Free Restroom
