@@ -4,6 +4,7 @@ const Footer = () => {
   return (
     <footer>
         Designed And Developed By Yendluri Vyshnavi
+      <p>vishuchowdary20@gmail.com</p>
     </footer>
   )
 }
